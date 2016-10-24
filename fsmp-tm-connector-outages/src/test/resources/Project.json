@@ -1,0 +1,72 @@
+{
+  "project": {
+    "active": "Y",
+    "enterpriseProjectStructure": "FIELD-OTR-ACTIVE",
+    "projectID": "5485",
+    "projectName": "2854318 1118-242M",
+    "projectDescription": "OLNG GTG6",
+    "plannedStartDate": "2016-01-30T08:00:00",
+    "plannedEndDate": "2016-02-24T20:00:00",
+    "primeContractor": "Oman - GEII Oman",
+    "contractType": "Global",
+    "outageID": "1118",
+    "eventID": "2389928",
+    "jobNumber": "2854318",
+    "opportunityID": null,
+    "productCompany": "TMS",
+    "fieldPL": "Contractual Services (CS)",
+    "serviceRelationship": null,
+    "novelty": null,
+    "durationType": "Fixed Units/Time",
+    "interventTypeDescription": "Standard MI",
+    "workscope": "MAJOR INSPECTION",
+    "cwdStartDate": "2016-01-04T07:00:00",
+    "cwdEndDate": "2016-01-27T19:00:00",
+    "projectManager": "105044785",
+    "serviceManager": "105041835",
+    "customerContactName": "Waleed Al Abri, WaleedAlAbri@OMANLNG.CO.OM",
+    "offshoreFlag": "N",
+    "ehsinfo": "None",
+    "shippingAddress": "OLNG- PO Box 411 Sur - Oman",
+    "arrivalAirportName": "Muscat",
+    "lodgingType": "Hotel",
+    "localGEContact": "P Devaraj, devaraj.periaswamy@ge.com",
+    "localTransportationOwnership": "GE",
+    "boardAndLodgingOwnership": "GE",
+    "languagesContractualObbligation": null,
+    "cvScreeningContractuallyDue": null,
+    "GEPersonnelOnlyContractualObligation": "Y",
+    "specialRequirements": "Fatigue Management to be implemented",
+    "straightDays": 7,
+    "straightTime": 12,
+    "plannedShiftNumber": "Double",
+    "daysOnDuty": 0,
+    "daysOffDuty": 0,
+    "dutyType": null,
+    "buyerName": null,
+    "buyerDuns": null,
+    "ganttRequired": null,
+    "opportunityStatus": null,
+    "emergencyFlag": null,
+    "overlapDays": null,
+    "travelDays": 0,
+    "comments": null,
+    "certificationRequired": "LFSE",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485"
+      },
+      {
+        "rel": "related",
+        "title": "Project Equipments",
+        "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485/equipments"
+      },
+      {
+        "rel": "related",
+        "title": "Project Customer",
+        "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485/customer"
+      }
+    ]
+  }
+}

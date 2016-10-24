@@ -1,0 +1,21 @@
+{
+  "projectCustomer": {
+    "duns": "CAT061069",
+    "name": "OMAN LIQUEFIED NATURAL GAS L L C",
+    "siteName": "SUR",
+    "siteAddress": "PO BOX 888",
+    "siteCity": "SUR",
+    "country": "Oman",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485/customer"
+      },
+      {
+        "rel": "related",
+        "title": "Project",
+        "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485"
+      }
+    ]
+  }
+}

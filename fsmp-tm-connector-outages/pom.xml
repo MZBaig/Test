@@ -1,0 +1,166 @@
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://maven.apache.org/POM/4.0.0"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.ge.tm.smartoutage</groupId>
+    <artifactId>fsmp-tm-connector-outages</artifactId>
+    <version>0.0.1</version>
+    <name>fsmp-tm-connector-outages</name>
+    <description>fsmp-tm-connector-outages</description>
+
+    <parent>
+        <groupId>com.ge.pw.smartoutage</groupId>
+        <artifactId>fsmp-so-dependencies</artifactId>
+        <version>1.16.0</version>
+    </parent>
+
+    <scm>
+        <url>https://github.build.ge.com/OG-TMS-Predix/fsmp-tm-connector-outages</url>
+        <connection>scm:git:ssh://git@github.build.ge.com/OG-TMS-Predix/fsmp-tm-connector-outages.git</connection>
+        <developerConnection>scm:git:ssh://git@github.build.ge.com/OG-TMS-Predix/fsmp-tm-connector-outages.git</developerConnection>
+    </scm>
+
+    <properties>
+        <fsmp-outages-interface.version>0.1.72</fsmp-outages-interface.version>
+
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <java.version>1.8</java.version>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <!-- Sonar -->
+        <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
+        <sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
+        <sonar.jacoco.reportPath>target/jacoco.exec</sonar.jacoco.reportPath>
+        <sonar.language>java</sonar.language>
+        <sonar.inherited>false</sonar.inherited>
+    </properties>
+
+    <dependencies>
+        <!-- Predix -->
+        <dependency>
+            <groupId>com.ge.predix</groupId>
+            <artifactId>uaa-token-lib</artifactId>
+        </dependency>
+
+        <!-- FSMP -->
+        <dependency>
+            <groupId>com.ge.fsmp</groupId>
+            <artifactId>fsmp-models</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.ge.fsmp</groupId>
+            <artifactId>fsmp-platform-connector-lib</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.ge.fsmp</groupId>
+            <artifactId>fsmp-outages-interface</artifactId>
+            <version>${fsmp-outages-interface.version}</version>
+        </dependency>
+
+        <!-- Spring -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-spring-service-connector</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-cloudfoundry-connector</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.security.oauth</groupId>
+            <artifactId>spring-security-oauth2</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.datatype</groupId>
+            <artifactId>jackson-datatype-jsr310</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-cache</artifactId>
+        </dependency>
+        <!-- Swagger Dependencies -->
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger2</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger-ui</artifactId>
+        </dependency>
+
+        <!-- Database drivers -->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+        </dependency>
+
+
+
+        <!-- Test Dependencies -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+        
+        
+        
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <profiles>
+                        <profile>local</profile>
+                    </profiles>
+                </configuration>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
+                        <configuration>
+                            <finalName>fsmp-tm-connector-outages</finalName>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+
+    <repositories>
+           <repository>
+                <id>swcoealppcr01</id>
+                <name>swcoealppcr01-releases</name>
+                <url>https://devcloud.swcoe.ge.com/artifactory/repo</url>
+                <releases>
+                    <enabled>true</enabled>
+                </releases>
+                <snapshots>
+                    <enabled>false</enabled>
+                </snapshots>
+            </repository>
+        </repositories>
+</project>

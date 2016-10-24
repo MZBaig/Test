@@ -1,0 +1,34 @@
+{
+  "projectEquipments": {
+    "orderBy": "serialNumber",
+    "orderType": "asc",
+    "total": 1,
+    "data": [
+      {
+        "serialNumber": "G06929",
+        "machineFamily": null,
+        "machineModel": null,
+        "machineJobNumber": null
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485/equipments"
+      },
+      {
+        "rel": "first",
+        "href": null
+      },
+      {
+        "rel": "last",
+        "href": null
+      },
+      {
+        "rel": "related",
+        "title": "Project",
+        "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485"
+      }
+    ]
+  }
+}

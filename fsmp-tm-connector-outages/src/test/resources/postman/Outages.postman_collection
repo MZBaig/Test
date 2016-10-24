@@ -1,0 +1,56 @@
+{
+	"id": "049acb84-865a-0f6e-4b34-53ff80a52d05",
+	"name": "Outages",
+	"description": "",
+	"order": [
+		"e6479847-5f0f-4d8b-9538-d7ac814b2f92",
+		"a695111e-e7bc-dd27-ac40-13c4a82c2d53"
+	],
+	"folders": [],
+	"timestamp": 1475683020215,
+	"owner": "",
+	"public": false,
+	"published": false,
+	"requests": [
+		{
+			"id": "a695111e-e7bc-dd27-ac40-13c4a82c2d53",
+			"headers": "",
+			"url": "http://localhost:9052/service/v1/outages/11690?sso=105035346",
+			"pathVariables": {},
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "049acb84-865a-0f6e-4b34-53ff80a52d05",
+			"data": null,
+			"dataMode": "params",
+			"name": "Get Outage",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1475683240732,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "e6479847-5f0f-4d8b-9538-d7ac814b2f92",
+			"headers": "",
+			"url": "http://localhost:9052/service/v1/outages?sso=105035346",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "GET",
+			"collectionId": "049acb84-865a-0f6e-4b34-53ff80a52d05",
+			"data": [],
+			"dataMode": "params",
+			"name": "Get Outages List",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1475683020214,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

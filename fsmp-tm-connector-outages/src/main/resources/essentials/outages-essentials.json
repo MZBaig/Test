@@ -1,0 +1,110 @@
+{
+  "outage": {
+    "labels": {
+      "eventId": "Site Activty:",
+      "location": "Site Name:",
+      "labelType": "Project",
+      "showStartDate":true
+    },
+    "showProjectIcon":true,
+    "outageListSearchConfig": {
+      "search": {
+        "searchFields": [
+          "customerName",
+          "id",
+          "city",
+          "country"
+       ],
+        "placeholder": "Search Outages",
+        "resultTemplate": "<event-list-card events='outage' config='essentials.outage.labels' ng-repeat='outage in searchResults'></event-list-card>"
+      },
+      "filter": [
+        {
+          "key": "dateRange",
+          "position": "left",
+          "type": "date-range",
+          "value": true,
+          "startDateOffsetMonths": -2,
+          "endDateOffsetMonths": 1
+        },
+        {
+          "icon": "fa fa-star-o",
+          "key": "isFavorite",
+          "position": "right",
+          "type": "icon-button",
+          "value": true
+        }
+      ]
+    },
+    "qcpListSearchConfig": {
+      "search": {
+        "placeholder": "Search Hold point",
+        "resultTemplate": "<qcp-hold-point-card ng-repeat='holdPoint in searchResults track by $index' data-available-roles='dependencies' data-hold-point='holdPoint'></qcp-hold-point-card>",
+        "searchFields": [
+          "holdPointTitle"
+        ]
+      }
+    },
+    "qcpAvailableRoles": [
+      "craft supervisor",
+      "field engineer",
+      "customer"
+    ]
+  },
+  "activity": {
+    "holdPoints": {
+      "limits": {
+        "holdPointNotes": 1024,
+        "holdPointTitle": 512,
+        "reasonNotApplicable": 512,
+        "referenceDocument": 1024
+      },
+      "validations": {
+        "holdPointNotes": {
+          "formRules": {
+            "maxLength": 1024
+          },
+          "formRulesErrorMsgs": {
+            "maxLength": "You cannot have more than 1024 characters"
+          }
+        },
+        "holdPointTitle": {
+          "formRules": {
+            "maxLength": 512
+          },
+          "formRulesErrorMsgs": {
+            "maxLength": "You cannot have more than 512 characters"
+          },
+          "required": true,
+          "requiredMsg": "Hold Point Name is Required"
+        },
+        "reasonNotApplicable": {
+          "formRules": {
+            "maxLength": 512
+          },
+          "formRulesErrorMsgs": {
+            "maxLength": "You cannot have more than 512 characters"
+          },
+          "required": true,
+          "requiredMsg": "Reason is Required"
+        },
+        "referenceDocument": {
+          "formRules": {
+            "maxLength": 1024
+          },
+          "formRulesErrorMsgs": {
+            "maxLength": "You cannot have more than 1024 characters"
+          }
+        },
+        "requiredSignatures": {
+          "required": true,
+          "requiredMsg": "Must choose at least one signature"
+        },
+        "signature": {
+          "required": true,
+          "requiredMsg": "Must provide signature to create hold point"
+        }
+      }
+    }
+  }
+}

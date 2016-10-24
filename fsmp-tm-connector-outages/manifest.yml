@@ -1,0 +1,10 @@
+applications:
+  - name: tm-outages
+    buildpack: https://github.com/cloudfoundry/java-buildpack.git#v3.7
+    path: target/fsmp-tm-connector-outages.jar
+    services:
+      - tms-env-service
+      - tm-logstash
+      - tms-newrelic
+    env:
+      SPRING_PROFILES_DEFAULT: cloud

@@ -1,0 +1,1548 @@
+{
+  "assignments": {
+    "orderBy": "assignmentStartDate",
+    "orderType": "asc",
+    "total": 35,
+    "data": [
+      {
+        "assignmentID": "WO-00477938",
+        "type": "Requirement",
+        "status": "Assigned",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Oman",
+        "skill": null,
+        "assignmentStartDate": "2016-08-03T00:00:00",
+        "assignmentEndDate": "2016-08-03T00:00:00",
+        "missionID": "477938",
+        "projectID": "5485",
+        "requirementID": "1385940",
+        "region": "MENAT",
+        "jobNumber": "N/A",
+        "backendID": "a3N120000006bkqEAA",
+        "lastUpdatedBy": "api.integration",
+        "owner": "105702350",
+        "latitude": 22.660274,
+        "longitude": 59.404443,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00477938"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/1385940"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00477939",
+        "type": "Requirement",
+        "status": "Assigned",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Oman",
+        "skill": "MGR_SITE-MANAGER",
+        "assignmentStartDate": "2016-08-05T00:00:00",
+        "assignmentEndDate": "2016-08-05T00:00:00",
+        "missionID": "477939",
+        "projectID": "5485",
+        "requirementID": "1385941",
+        "region": "MENAT",
+        "jobNumber": "N/A",
+        "backendID": "a3N120000006bkvEAA",
+        "lastUpdatedBy": "api.integration",
+        "owner": "105702350",
+        "latitude": 22.660274,
+        "longitude": 59.404443,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00477939"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/1385941"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00374749",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "United Arab Emirates",
+        "skill": "MECH_HDGT_SERV_FR3-5",
+        "assignmentStartDate": "2015-10-24T00:00:00",
+        "assignmentEndDate": "2015-11-25T00:00:00",
+        "missionID": "374749",
+        "projectID": "6250",
+        "requirementID": "387919",
+        "region": "MENAT",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000000LnTIEA0",
+        "lastUpdatedBy": "502432394",
+        "owner": "P00000025",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00374749"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6250"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6250/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6250/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/387919"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00375540",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Russian Federation",
+        "skill": "MGR_SITE-MANAGER",
+        "assignmentStartDate": "2015-06-07T00:00:00",
+        "assignmentEndDate": "2015-07-16T00:00:00",
+        "missionID": "375540",
+        "projectID": "5499",
+        "requirementID": "376202",
+        "region": "EUROPE",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000000Lng7EAC",
+        "lastUpdatedBy": "P00000025",
+        "owner": "P00000025",
+        "latitude": 46.628987,
+        "longitude": 142.910063,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00375540"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5499"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5499/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5499/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/376202"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00376665",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Tunisia",
+        "skill": "MGR_SITE-MANAGER",
+        "assignmentStartDate": "2015-09-17T00:00:00",
+        "assignmentEndDate": "2015-10-15T00:00:00",
+        "missionID": "376665",
+        "projectID": "6626",
+        "requirementID": "390166",
+        "region": "MENAT",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000000LnySEAS",
+        "lastUpdatedBy": "P00000025",
+        "owner": "105024975",
+        "latitude": 37.016667,
+        "longitude": 11.05,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00376665"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6626"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6626/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6626/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/390166"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00377793",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Angola",
+        "skill": "MGR_SITE-MANAGER",
+        "assignmentStartDate": "2015-12-10T00:00:00",
+        "assignmentEndDate": "2015-12-30T00:00:00",
+        "missionID": "377793",
+        "projectID": "6360",
+        "requirementID": "388300",
+        "region": "S.S. AFRICA",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000000LoGiEAK",
+        "lastUpdatedBy": "P00000025",
+        "owner": "105035385",
+        "latitude": -6.478184,
+        "longitude": 12.171293,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00377793"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/388300"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00384727",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "United Arab Emirates",
+        "skill": "MECH_HDGT_SERV_FR3-5",
+        "assignmentStartDate": "2015-08-31T00:00:00",
+        "assignmentEndDate": "2015-09-08T00:00:00",
+        "missionID": "384727",
+        "projectID": "6250",
+        "requirementID": "478762",
+        "region": "MENAT",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000000Lw5DEAS",
+        "lastUpdatedBy": "502432394",
+        "owner": "105031639",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00384727"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6250"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6250/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6250/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/478762"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00390865",
+        "type": "HQ",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Italy",
+        "skill": null,
+        "assignmentStartDate": "2015-08-26T00:00:00",
+        "assignmentEndDate": "2015-08-28T00:00:00",
+        "missionID": "390865",
+        "projectID": null,
+        "requirementID": null,
+        "region": "EUROPE",
+        "jobNumber": "2909034",
+        "backendID": "a3N12000000M28oEAC",
+        "lastUpdatedBy": "P00000025",
+        "owner": "105024975",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00390865"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00394118",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "United Arab Emirates",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2015-08-18T00:00:00",
+        "assignmentEndDate": "2015-08-21T00:00:00",
+        "missionID": "394118",
+        "projectID": "6250",
+        "requirementID": "550598",
+        "region": "MENAT",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000000M6CdEAK",
+        "lastUpdatedBy": "502432394",
+        "owner": "105024975",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00394118"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6250"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6250/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6250/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/550598"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00394209",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Tunisia",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2015-09-08T00:00:00",
+        "assignmentEndDate": "2015-09-12T00:00:00",
+        "missionID": "394209",
+        "projectID": "6626",
+        "requirementID": "551458",
+        "region": "MENAT",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000000M6KSEA0",
+        "lastUpdatedBy": "502432394",
+        "owner": "105024975",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00394209"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6626"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6626/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6626/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/551458"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00394624",
+        "type": "Training",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Italy",
+        "skill": null,
+        "assignmentStartDate": "2015-09-13T00:00:00",
+        "assignmentEndDate": "2015-09-16T00:00:00",
+        "missionID": "394624",
+        "projectID": null,
+        "requirementID": null,
+        "region": "EUROPE",
+        "jobNumber": "2909034",
+        "backendID": "a3N12000000M6sTEAS",
+        "lastUpdatedBy": "P00000025",
+        "owner": "105024975",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00394624"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00482469",
+        "type": "Requirement",
+        "status": "Assigned",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Brunei Darussalam",
+        "skill": "MECH_HDGT_SERV_FR3-5",
+        "assignmentStartDate": "2016-09-06T00:00:00",
+        "assignmentEndDate": "2016-09-06T00:00:00",
+        "missionID": "482469",
+        "projectID": "5455",
+        "requirementID": "1423196",
+        "region": "APAC",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000000Mx0ZEAS",
+        "lastUpdatedBy": "api.integration",
+        "owner": "105046167",
+        "latitude": 4.686439,
+        "longitude": 114.152935,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00482469"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5455"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5455/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5455/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/1423196"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00403395",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Tunisia",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2015-10-15T00:00:00",
+        "assignmentEndDate": "2015-10-16T00:00:00",
+        "missionID": "403395",
+        "projectID": "6626",
+        "requirementID": "639674",
+        "region": "MENAT",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002Qe9yEAC",
+        "lastUpdatedBy": "502432394",
+        "owner": "105024975",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00403395"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6626"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6626/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6626/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/639674"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00404952",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Angola",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2015-10-22T00:00:00",
+        "assignmentEndDate": "2015-10-22T00:00:00",
+        "missionID": "404952",
+        "projectID": "5545",
+        "requirementID": "651140",
+        "region": "S.S. AFRICA",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002QfuFEAS",
+        "lastUpdatedBy": "502432394",
+        "owner": "105035385",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00404952"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5545"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5545/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5545/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/651140"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00410173",
+        "type": "Requirement",
+        "status": "Assigned",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Russian Federation",
+        "skill": "MGR_SITE-MANAGER",
+        "assignmentStartDate": "2016-04-20T00:00:00",
+        "assignmentEndDate": "2016-05-20T00:00:00",
+        "missionID": "410173",
+        "projectID": "5501",
+        "requirementID": "376215",
+        "region": "EUROPE",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002QmGVEA0",
+        "lastUpdatedBy": "P00000025",
+        "owner": "105046210",
+        "latitude": 46.628987,
+        "longitude": 142.910063,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00410173"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5501"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5501/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5501/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/376215"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00417633",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Angola",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2015-12-07T00:00:00",
+        "assignmentEndDate": "2015-12-08T00:00:00",
+        "missionID": "417633",
+        "projectID": "6360",
+        "requirementID": "775245",
+        "region": "S.S. AFRICA",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002QuQaEAK",
+        "lastUpdatedBy": "105035385",
+        "owner": "105035385",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00417633"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/775245"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00417634",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Angola",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2015-11-26T00:00:00",
+        "assignmentEndDate": "2015-11-26T00:00:00",
+        "missionID": "417634",
+        "projectID": "6360",
+        "requirementID": "775242",
+        "region": "S.S. AFRICA",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002QuQfEAK",
+        "lastUpdatedBy": "502432394",
+        "owner": "105035385",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00417634"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/775242"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00417635",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Angola",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2015-12-02T00:00:00",
+        "assignmentEndDate": "2015-12-03T00:00:00",
+        "missionID": "417635",
+        "projectID": "6360",
+        "requirementID": "775243",
+        "region": "S.S. AFRICA",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002QuQkEAK",
+        "lastUpdatedBy": "P00000025",
+        "owner": "105035385",
+        "latitude": -6.478184,
+        "longitude": 12.171293,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00417635"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/775243"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00422854",
+        "type": "Requirement",
+        "status": "Assigned - Warning",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "United Arab Emirates",
+        "skill": "MECH_HDGT_SERV",
+        "assignmentStartDate": "2016-01-31T00:00:00",
+        "assignmentEndDate": "2016-02-28T00:00:00",
+        "missionID": "422854",
+        "projectID": "11690",
+        "requirementID": "819089",
+        "region": "MENAT",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002R0lkEAC",
+        "lastUpdatedBy": "P00000025",
+        "owner": "105031639",
+        "latitude": 23.843491,
+        "longitude": 53.642035,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00422854"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/11690"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/11690/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/11690/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/819089"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00422858",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "United Arab Emirates",
+        "skill": "MECH_HDGT_SERV",
+        "assignmentStartDate": "2016-02-29T00:00:00",
+        "assignmentEndDate": "2016-03-30T00:00:00",
+        "missionID": "422858",
+        "projectID": "11692",
+        "requirementID": "819100",
+        "region": "MENAT",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002R0m4EAC",
+        "lastUpdatedBy": "P00000025",
+        "owner": "105031639",
+        "latitude": 23.843491,
+        "longitude": 53.642035,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00422858"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/11692"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/11692/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/11692/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/819100"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00424204",
+        "type": "Requirement",
+        "status": "Assigned - Warning",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Russian Federation",
+        "skill": "MGR_SITE-MANAGER",
+        "assignmentStartDate": "2016-06-06T00:00:00",
+        "assignmentEndDate": "2016-07-15T00:00:00",
+        "missionID": "424204",
+        "projectID": "5503",
+        "requirementID": "659115",
+        "region": "EUROPE",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002R2XWEA0",
+        "lastUpdatedBy": "api.integration",
+        "owner": "105046210",
+        "latitude": 46.628987,
+        "longitude": 142.910063,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00424204"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5503"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5503/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5503/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/659115"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00427777",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Russian Federation",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2016-01-26T00:00:00",
+        "assignmentEndDate": "2016-01-26T00:00:00",
+        "missionID": "427777",
+        "projectID": "5502",
+        "requirementID": "814635",
+        "region": "EUROPE",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002R751EAC",
+        "lastUpdatedBy": "P00000025",
+        "owner": "105046210",
+        "latitude": 46.628987,
+        "longitude": 142.910063,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00427777"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5502"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5502/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5502/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/814635"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00428269",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Angola",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2016-01-11T00:00:00",
+        "assignmentEndDate": "2016-01-13T00:00:00",
+        "missionID": "428269",
+        "projectID": "6360",
+        "requirementID": "878920",
+        "region": "S.S. AFRICA",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002R7hcEAC",
+        "lastUpdatedBy": "105035385",
+        "owner": "105035385",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00428269"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/6360/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/878920"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00428336",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "United Arab Emirates",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2016-01-18T00:00:00",
+        "assignmentEndDate": "2016-01-20T00:00:00",
+        "missionID": "428336",
+        "projectID": "11690",
+        "requirementID": "870961",
+        "region": "MENAT",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002R7mhEAC",
+        "lastUpdatedBy": "105024975",
+        "owner": "105024975",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00428336"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/11690"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/11690/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/11690/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/870961"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00433685",
+        "type": "HQ",
+        "status": "Assigned",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Italy",
+        "skill": null,
+        "assignmentStartDate": "2016-07-25T00:00:00",
+        "assignmentEndDate": "2016-07-29T00:00:00",
+        "missionID": "433685",
+        "projectID": null,
+        "requirementID": null,
+        "region": "EUROPE",
+        "jobNumber": "1",
+        "backendID": "a3N12000002RDmWEAW",
+        "lastUpdatedBy": "105046167",
+        "owner": "105046167",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00433685"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00434644",
+        "type": "Requirement",
+        "status": "Assigned - Warning",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Brunei Darussalam",
+        "skill": "MECH_HDGT_SERV_FR3-5",
+        "assignmentStartDate": "2016-09-08T00:00:00",
+        "assignmentEndDate": "2016-10-24T00:00:00",
+        "missionID": "434644",
+        "projectID": "5455",
+        "requirementID": "375788",
+        "region": "APAC",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002REysEAG",
+        "lastUpdatedBy": "api.integration",
+        "owner": "105702350",
+        "latitude": 4.686439,
+        "longitude": 114.152935,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00434644"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5455"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5455/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5455/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/375788"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00443398",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Russian Federation",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2016-04-01T00:00:00",
+        "assignmentEndDate": "2016-04-01T00:00:00",
+        "missionID": "443398",
+        "projectID": "5502",
+        "requirementID": "1068840",
+        "region": "EUROPE",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002RPiIEAW",
+        "lastUpdatedBy": "P00000025",
+        "owner": "105063770",
+        "latitude": 46.628987,
+        "longitude": 142.910063,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00443398"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5502"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5502/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5502/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/1068840"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00446820",
+        "type": "HQ",
+        "status": "Assigned",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Italy",
+        "skill": null,
+        "assignmentStartDate": "2016-04-06T00:00:00",
+        "assignmentEndDate": "2016-04-08T00:00:00",
+        "missionID": "446820",
+        "projectID": null,
+        "requirementID": null,
+        "region": "EUROPE",
+        "jobNumber": "2909034",
+        "backendID": "a3N12000002RRrnEAG",
+        "lastUpdatedBy": "105046167",
+        "owner": "105046167",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00446820"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00450892",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Russian Federation",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2016-04-19T00:00:00",
+        "assignmentEndDate": "2016-04-19T00:00:00",
+        "missionID": "450892",
+        "projectID": "5502",
+        "requirementID": "1125735",
+        "region": "EUROPE",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002aSThEAM",
+        "lastUpdatedBy": "105063770",
+        "owner": "105063770",
+        "latitude": 46.628987,
+        "longitude": 142.910063,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00450892"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5502"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5502/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5502/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/1125735"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00451040",
+        "type": "Requirement",
+        "status": "Assigned - Warning",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Oman",
+        "skill": "MGR_SITE-MANAGER",
+        "assignmentStartDate": "2016-08-08T00:00:00",
+        "assignmentEndDate": "2016-09-04T00:00:00",
+        "missionID": "451040",
+        "projectID": "5485",
+        "requirementID": "1127211",
+        "region": "MENAT",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002aSfJEAU",
+        "lastUpdatedBy": "api.integration",
+        "owner": "105031639",
+        "latitude": 22.660274,
+        "longitude": 59.404443,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00451040"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5485/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/1127211"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00451152",
+        "type": "HQ",
+        "status": "Assigned",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Italy",
+        "skill": null,
+        "assignmentStartDate": "2016-04-12T00:00:00",
+        "assignmentEndDate": "2016-04-12T00:00:00",
+        "missionID": "451152",
+        "projectID": null,
+        "requirementID": null,
+        "region": "EUROPE",
+        "jobNumber": "2909034",
+        "backendID": "a3N12000002aSnlEAE",
+        "lastUpdatedBy": "105046167",
+        "owner": "105046167",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00451152"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00451157",
+        "type": "HQ",
+        "status": "Assigned",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Italy",
+        "skill": null,
+        "assignmentStartDate": "2016-04-15T00:00:00",
+        "assignmentEndDate": "2016-04-15T00:00:00",
+        "missionID": "451157",
+        "projectID": null,
+        "requirementID": null,
+        "region": "EUROPE",
+        "jobNumber": "2909034",
+        "backendID": "a3N12000002aSoAEAU",
+        "lastUpdatedBy": "105046167",
+        "owner": "105046167",
+        "latitude": 0,
+        "longitude": 0,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00451157"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00461819",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Russian Federation",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2016-06-01T00:00:00",
+        "assignmentEndDate": "2016-06-01T00:00:00",
+        "missionID": "461819",
+        "projectID": "5503",
+        "requirementID": "1216358",
+        "region": "EUROPE",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002dnkGEAQ",
+        "lastUpdatedBy": "105063770",
+        "owner": "105063770",
+        "latitude": 46.628987,
+        "longitude": 142.910063,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00461819"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5503"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5503/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5503/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/1216358"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00461820",
+        "type": "Requirement",
+        "status": "Completed",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Russian Federation",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2016-05-27T00:00:00",
+        "assignmentEndDate": "2016-05-27T00:00:00",
+        "missionID": "461820",
+        "projectID": "5503",
+        "requirementID": "1216357",
+        "region": "EUROPE",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002dnkLEAQ",
+        "lastUpdatedBy": "105063770",
+        "owner": "105063770",
+        "latitude": 46.628987,
+        "longitude": 142.910063,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00461820"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5503"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5503/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5503/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/1216357"
+          }
+        ]
+      },
+      {
+        "assignmentID": "WO-00473627",
+        "type": "Requirement",
+        "status": "Assigned",
+        "fseSSO": "105035346",
+        "fseFullName": "Petti, Jonathan",
+        "country": "Russian Federation",
+        "skill": "HQ_PERSONNEL",
+        "assignmentStartDate": "2016-07-18T00:00:00",
+        "assignmentEndDate": "2016-07-19T00:00:00",
+        "missionID": "473627",
+        "projectID": "5503",
+        "requirementID": "1346204",
+        "region": "EUROPE",
+        "jobNumber": "N/A",
+        "backendID": "a3N12000002e05VEAQ",
+        "lastUpdatedBy": "api.integration",
+        "owner": "105047533",
+        "latitude": 46.628987,
+        "longitude": 142.910063,
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00473627"
+          },
+          {
+            "rel": "related",
+            "title": "project",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5503"
+          },
+          {
+            "rel": "related",
+            "title": "project equipment",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5503/equipments"
+          },
+          {
+            "rel": "related",
+            "title": "project customer",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/projects/5503/customer"
+          },
+          {
+            "rel": "related",
+            "title": "requirement",
+            "href": "https://api.geoilandgas.com/v1/gs/demand/plan/requirements/1346204"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments?fseSSO=105035346"
+      },
+      {
+        "rel": "first",
+        "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00477938"
+      },
+      {
+        "rel": "last",
+        "href": "https://api.geoilandgas.com/v1/gs/demand/fulfillment/assignments/WO-00473627"
+      }
+    ]
+  }
+}
